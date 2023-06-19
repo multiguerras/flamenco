@@ -1,0 +1,18 @@
+body{
+
+}
+.t1{
+    margin-left: 150px;
+}
+.table{
+    background-color: gainsboro;
+    width: 40%;
+}
+button{
+    width: 150px;
+    height: 30px;
+    
+}
+td{
+    text-align: center;
+}
